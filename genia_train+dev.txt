@@ -1,0 +1,61 @@
+{'Acetylation': 1,
+ 'Anaphora': 96,
+ 'Binding': 91,
+ 'Deacetylation': 1,
+ 'Entity': 95,
+ 'Gene_expression': 230,
+ 'Localization': 58,
+ 'Negative_regulation': 184,
+ 'Phosphorylation': 61,
+ 'Positive_regulation': 205,
+ 'Protein': 406,
+ 'Protein_catabolism': 27,
+ 'Protein_modification': 6,
+ 'Regulation': 141,
+ 'Transcription': 64,
+ 'Ubiquitination': 4}
+coreferenceOf 338
+	subject types 	
+		Anaphora: 338
+	object types 	
+		Gene_expression: 6
+		Localization: 1
+		Transcription: 5
+		Entity: 11
+		Binding: 10
+		Phosphorylation: 5
+		Positive_regulation: 11
+		Protein_modification: 1
+		Protein: 275
+		Negative_regulation: 5
+		Anaphora: 7
+		Ubiquitination: 1
+locationOf 156
+	subject types 	
+		Entity: 156
+	object types 	
+		event: 156
+causeOf 1255
+	subject types 	
+		Protein: 767
+		event: 404
+		Entity: 84
+	object types 	
+		event: 1255
+themeOf 6322
+	subject types 	
+		Protein: 3908
+		event: 2074
+		Entity: 340
+	object types 	
+		event: 6322
+partOf 311
+	subject types 	
+		Entity: 311
+	object types 	
+		Protein: 311
+equivalentTo 107
+	subject types 	
+		Protein: 107
+	object types 	
+		Protein: 107
