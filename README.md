@@ -14,6 +14,10 @@ see the source code and your OS/python doc
 
 Call the program with the directories containing the json files as parameters.
 
+## Input/Output
+
+Expected input is the json files from the GE task: https://sites.google.com/site/bionlpst2013/tasks
+Output is in the format of genia*txt files included in the repository
 
 ## Contributing
 
