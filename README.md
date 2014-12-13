@@ -32,7 +32,10 @@ In the extremely improbable chance...
 
 ## History
 
-This project was started on 12/12/2014. That's it
+This project was started on 12/12/2014. That's it. As of 13/12/2014 at around
+1h after midnight, it has around 200 lines of code, and it should probably be
+rewritten :)
+
 
 ## Credits
 
